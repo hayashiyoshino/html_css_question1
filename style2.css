@@ -44,6 +44,7 @@ header {
 .box3 {
   height: 60px;
   background-color: #4caf50;
+  clear: both;
 }
 
 .clearfix:after {
